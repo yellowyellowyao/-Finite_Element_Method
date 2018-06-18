@@ -16,15 +16,12 @@
 编译器：python 3.5
 
 函数库：
-    ```
-    numpy 1.14.2   
-    
-    pandas 0.18.1   
-    
-    matplotlib 1.5.3   
-    
-    sympy 1.0   
-    ```
+
+`    numpy 1.14.2   
+`    pandas 0.18.1       
+`    matplotlib 1.5.3        
+`    sympy 1.0   
+
 
 
 
