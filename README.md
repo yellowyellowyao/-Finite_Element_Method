@@ -10,15 +10,15 @@
 - 进阶版的解决方案： more_powerful_magic_tool.py
 进阶版解决方案用户可以选择引入非齐次项、其他本质边界条件。
 
-##编程环境：
+## 编程环境：
 编译器：python 3.5
 函数库：
-    '''
+    ```
     numpy 1.14.2
 		pandas 0.18.1
 		matplotlib 1.5.3
 		sympy 1.0
-    '''
+    ```
 
 
 
