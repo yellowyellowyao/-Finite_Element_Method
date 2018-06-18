@@ -1,5 +1,6 @@
 # Finite_Element_Method 有限元方法
 ## 程序目的：
+本项目是为解决以下常微分方程而创建的： 
 ![](https://github.com/yellowyellowyao/-Finite_Element_Method/blob/master/picture/%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0.png)
 
   本项目使用有限元方法，分别对三角形剖分和矩形剖分进行处理，其中三角形剖分借用easymesh软件剖分的网格。
@@ -16,10 +17,10 @@
 
 函数库：
     ```
-    numpy 1.14.2
-		pandas 0.18.1
-		matplotlib 1.5.3
-		sympy 1.0
+    numpy 1.14.2  
+    pandas 0.18.1  
+    matplotlib 1.5.3  
+    sympy 1.0  
     ```
 
 
